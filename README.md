@@ -72,6 +72,7 @@ The program will check each Steam ID from your `targets.txt` file. If an ID is a
 - [ ] Add an option to generate targets (3c, 3l, 4c and 4l usernames).
 - [ ] Add discord webhook support, this might not be a good idea because of how often valid IDs are found.
 - [ ] Add a turbo to quickly claim usernames. Proxy support might also be needed for this.
+- [ ] Add some comments because i was too lazy to do it. I think the code is very easy to understand though.
 
 ## Credits
 
