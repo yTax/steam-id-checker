@@ -65,6 +65,7 @@ The program will check each Steam ID from your `targets.txt` file. If an ID is a
 ## Known Issues
 
 - The tool may take time depending on the number of IDs being checked. I havent implemented threading to this tool yet.
+- If you delete the targets.txt file the tool will stop working because it wont be able to read the targets.
 
 ## To-do List
 
