@@ -70,6 +70,7 @@ The program will check each Steam ID from your `targets.txt` file. If an ID is a
 
 ## To-do List
 
+- [ ] Add steam API Key support, this will prevent the false-positives regarding the shadow-banned accounts.
 - [ ] Add threading.
 - [ ] Add an option to generate targets (3c, 3l, 4c and 4l usernames).
 - [ ] Add discord webhook support, this might not be a good idea because of how often valid IDs are found.
