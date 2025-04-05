@@ -1,4 +1,4 @@
-module ytax/steamidcheck
+module github.com/yTax/steam-id-checker
 
 go 1.23.2
 
