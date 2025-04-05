@@ -83,4 +83,10 @@ Feel free to contribute or open issues if you encounter any bugs or have suggest
 
 ---
 
+## Preview of the interfance
+
+![image](https://github.com/user-attachments/assets/98e9d95d-2f21-4137-a919-1346ace4dc90)
+
+---
+
 Enjoy checking your Steam IDs and have fun!
